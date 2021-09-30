@@ -1,2 +1,2 @@
-# Backpress
-Web Framework in Node.js 
+# Backpress.js
+Minimilastic Web Framework in Node.js 
